@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "python3 -m unittest -v test1",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "python3 -m unittest -v test2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "test3",
+      "setup": "",
+      "run": "python3 -m unittest -v test3",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "test4",
+      "setup": "",
+      "run": "python3 -m unittest -v test4",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "test5",
+      "setup": "",
+      "run": "python3 -m unittest -v test5",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
